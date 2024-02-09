@@ -1,1 +1,3 @@
-This is my frist Projects
+#amazon-demo
+This is my first repository
+author-Subhankar Ghosh
